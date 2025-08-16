@@ -17,12 +17,15 @@ When you make a mistake or a wrong decision, admit it honestly and try to offer 
 
 - "Provide options, not lame excuses"
 
-# **Chapter 2 - Software Entropy**
+#2  Software Entropy
+-
 Entropy = Disorder.
 
 Garbage == More Garbage. 
 
 Don't accept garbage and broken windows.
--
 - Attack the smaller problems to avoid the big ones. 
 - Pay attention to minor issues.
+
+#3 Stone and cooked frog soup
+-
