@@ -15,4 +15,14 @@ Mistakes happen. Be honest.
 
 When you make a mistake or a wrong decision, admit it honestly and try to offer options. Don't blame others or invent excuses. It's up to you to provide solutions, not excuses.
 
-Given options, don't send blame or excuses.
+- "Provide options, not lame excuses"
+
+# **Chapter 2 - Software Entropy**
+Entropy = Disorder.
+
+Garbage == More Garbage. 
+
+Don't accept garbage and broken windows.
+-
+- Attack the smaller problems to avoid the big ones. 
+- Pay attention to minor issues.
