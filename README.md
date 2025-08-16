@@ -1,0 +1,2 @@
+this is **only** my notes and thoughts about the book, this repository does not replace reading the book. 
+Nothing, i repeat, nothing will be better than buying, reading the book, and have your own insights.
